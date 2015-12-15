@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 NO, I will be the winner
+=======
+YAY FOR MACS
+>>>>>>> f8a744a930d45248d2a88fdb8ee69fe64090c0a5
